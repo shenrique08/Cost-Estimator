@@ -1,55 +1,44 @@
-💸 Cost Estimator
-A sleek, responsive cost estimation tool that lets users calculate pricing plans in real time based on their specific needs.
+# Cost Estimator 💸
 
+A responsive cost estimation tool that helps users calculate pricing plans based on their needs.
 
-✨ Features
-🔧 Interactive Pricing Calculator — Adjust usage with an intuitive slider
+## Features
 
-📱 Fully Responsive — Works great on desktop, tablet, and mobile
+- Interactive pricing calculator with slider control
+- Responsive design that works on mobile and desktop
+- Two pricing options: Monthly and Annual billing
+- Visual feedback for active tabs and hover states
+- Clean, modern UI with smooth animations
 
-💳 Flexible Billing Options — Toggle between Monthly and Annual plans
+## Technologies Used
 
-🖱️ Smooth UI/UX — Visual feedback on tabs, hovers, and interactions
+- HTML5  
+- CSS3 (Flexbox, Media Queries, CSS Variables)  
+- Google Fonts (Open Sans)
 
-🎨 Modern Design — Clean layout with soft animations and elegant typography
+## How to Use
 
-🛠 Technologies
-HTML5
-CSS3 (Flexbox, Media Queries, CSS Variables)
+1. Select your plan type (Team is selected by default)
+2. Choose between Mobile or Web tracking
+3. Adjust the monthly sessions slider to estimate your needs
+4. View the dynamic pricing options
+5. Click "Try Free For 14 Days" to select a plan
 
-Google Fonts (Open Sans)
+## Responsive Design
 
-🚀 How to Use
-Select your plan — "Team" is selected by default.
+- Desktop: up to 900px
+- Tablet: 750px
+- Mobile: 600px and below
 
-Choose a platform — Web or Mobile tracking.
+## Customization
 
-Adjust usage — Use the slider to set your monthly sessions.
+You can easily customize:
+- **Color scheme** by editing CSS variables
+- **Pricing tiers** by changing values in HTML
+- **Slider increments** by adjusting scale settings
 
-Compare prices — View dynamic pricing below the calculator.
+## Installation
 
-Get started — Click “Try Free For 14 Days” to begin your trial.
-
-📱 Responsive Breakpoints
-Desktop: up to 900px
-
-Tablet: 750px
-
-Mobile: 600px and below
-
-🎨 Customization
-You can easily tweak:
-
-Colors: Modify CSS variables to match your brand
-
-Pricing Tiers: Adjust values directly in the HTML
-
-Slider Steps: Change scale settings for finer control
-
-📦 Installation
-bash
-Copiar
-Editar
+```bash
 git clone https://github.com/your-username/cost-estimator.git
 cd cost-estimator
-Then just open index.html in your browser.
