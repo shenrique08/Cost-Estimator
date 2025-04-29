@@ -1,3 +1,4 @@
+https://shenrique08.github.io/Cost-Estimator/
 # Cost Estimator 💸
 
 A responsive cost estimation tool that helps users calculate pricing plans based on their needs.
