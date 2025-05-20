@@ -1,4 +1,4 @@
-https://shenrique08.github.io/Cost-Estimator/
+[https://shenrique08.github.io/Cost-Estimator/](https://shenrique08.github.io/cost-estimator-frontend-project/)
 # Cost Estimator 💸
 
 A responsive cost estimation tool that helps users calculate pricing plans based on their needs.
